@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "hal_gpio.h": "c",
+        "tim2.h": "c",
+        "hal_tim.h": "c",
+        "ask.h": "c"
+    }
+}
